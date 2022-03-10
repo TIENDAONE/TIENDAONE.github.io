@@ -17,4 +17,4 @@
 ## SIN ESTAMPADO
 ![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlTzHAnWtvrGA275wOeIuS5HvBaO-FBCCPiw&usqp=CAU)
 ![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi1-V1pU1cBcRxBNabhT4LJSFr-7GAzf1uFQ&usqp=CAU)
-![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAkor2hvCYjrsIPfE8XLE7jZya5AprPEDM1A&usqp=CAU)
+![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkURQ8gta1t8IM1e-db6-Js9eiBG2Lq0EU5w&usqp=CAU)
