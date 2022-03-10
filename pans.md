@@ -1,6 +1,6 @@
 ## NIKE
 ![TEXTO ALTERNATIVO](![image](https://user-images.githubusercontent.com/101225226/157769137-471c050c-4c0d-43f1-bd91-377ebc3a5cc6.png)
-![TEXTO ALTERNATIVO](https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8a876c26-e3a7-449f-9d6f-8bdaab2e3bbe/pantalones-de-tejido-fleece-cl%C3%A1sico-sportswear-DgDCHh.png)
+![TEXTO ALTERNATIVO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1O_P90U7AnM8zUveZ-8deI5wnjn9ClCecvw&usqp=CAU)
 ![TEXTO ALTERNATIVO](chttps://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d27c7163-d20b-457e-b6b1-461512b4b1cf/joggers-sportswear-tech-fleece-JmsWnn.png)
 ## ADIDAS
 ![TEXTO ALTERNATIVO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu_mPIiLg29Wq7VWH8R5aOp4SU4FCbnjMEgg&usqp=CAU)
