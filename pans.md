@@ -1,4 +1,5 @@
-[Tenis](./Tenis.md) | [Gorras](./Gorras.md) | [Pans](./Pans.md) | [Sudaderas](./Sudaderas.md) |
+[Tenis](./tenis.md) | [Gorras](./gorras.md) | [Pans](./pans.md) | [Sudaderas](./sudaderas.md) |
+
 
 ## NIKE
 ![TEXTO ALTERNATIVO](![image](https://user-images.githubusercontent.com/101225226/157769137-471c050c-4c0d-43f1-bd91-377ebc3a5cc6.png)
