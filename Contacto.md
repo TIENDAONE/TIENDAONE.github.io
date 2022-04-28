@@ -1,2 +1,2 @@
-[Tenis](./Tenis.md) | [Sudaderas](./Sudaderas.md) | [Gorras](./Gorras.md) | [Pans](./Pans.md) |
+[Tenis](./Tenis.md) | [Gorras](./Gorras.md) | [Pans](./Pans.md) | [Sudaderas](./Sudaderas.md) |
 
