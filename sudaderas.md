@@ -1,4 +1,4 @@
-[Tenis](./Tenis.md) | [Gorras](./Gorras.md) | [Pans](./Pans.md) | [Sudaderas](./Sudaderas.md) |
+[Tenis](./tenis.md) | [Gorras](./gorras.md) | [Pans](./pans.md) | [Sudaderas](./sudaderas.md) |
 
 ## POLO
 ![texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAH2S2qGZ9Tu-YtWoLFsWEvmDxnthHZXsjfQ&usqp=CAU)
