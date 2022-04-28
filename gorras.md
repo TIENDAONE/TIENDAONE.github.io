@@ -1,4 +1,5 @@
-[Tenis](./Tenis.md) | [Gorras](./Gorras.md) | [Pans](./Pans.md) | [Sudaderas](./Sudaderas.md) |
+[Tenis](./tenis.md) | [Gorras](./gorras.md) | [Pans](./pans.md) | [Sudaderas](./sudaderas.md) |
+
 
 ## ADIDAS
 ![texto alternativo](https://m.media-amazon.com/images/I/61l-1Cjh18S._AC_UX385_.jpg)
